@@ -5,9 +5,13 @@ Este directorio contiene soluciones a problemas de **SQL** en [HackerRank](https
 ### Estructura
 
 Las soluciones están organizadas por categoría, abarcando diferentes aspectos de SQL, incluyendo:
+
 ├── SQL
+
 │ └── Easy
+
 │ └── Medium
+
 │ └── Hard
 
 ### 📝 Nota
