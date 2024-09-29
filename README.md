@@ -7,13 +7,21 @@ Este repositorio contiene soluciones a diversos desafíos de programación en la
 ## 🚀 Estructura del repositorio
 
 Las soluciones están organizadas por categorías y niveles de dificultad. A continuación, se muestra cómo están organizadas las carpetas:
+
 ├── Python
+
 │ └── Easy
+
 │ └── Medium
+
 │ └── Hard
+
 ├── SQL
+
 │ └── Easy
+
 │ └── Medium
+
 │ └── Hard
 
 Cada archivo dentro de estas carpetas contiene una solución a un problema específico, junto con una breve descripción del problema en la parte superior del archivo.
