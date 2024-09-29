@@ -10,8 +10,11 @@ Este directorio contiene soluciones a problemas relacionados con la **sintaxis d
 Las soluciones están organizadas de la siguiente manera dependiendo del nivel de dificultad de cada sección.
 
 ├── Python
+
 │ └── Easy
+
 │ └── Medium
+
 │ └── Hard
 
 ### 📝 Nota
