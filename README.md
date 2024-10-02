@@ -16,27 +16,16 @@ Este repositorio contiene soluciones a diversos desafíos de programación en la
 Las soluciones están organizadas por categorías y niveles de dificultad. A continuación, se muestra cómo están organizadas las carpetas:
 
 ├── Problem Solving
-
-│ └── Easy
-
-│ └── Medium
-
+│ ├── Easy
+│ ├── Medium
 │ └── Hard
-
 ├── Python
-
-│ └── Easy
-
-│ └── Medium
-
+│ ├── Easy
+│ ├── Medium
 │ └── Hard
-
 ├── SQL
-
-│ └── Easy
-
-│ └── Medium
-
+│ ├── Easy
+│ ├── Medium
 │ └── Hard
 
 Cada archivo dentro de estas carpetas contiene una solución a un problema específico de la plataforma. En el caso de **SQL**, esta contiene una breve descripción del problema en la parte superior del archivo
