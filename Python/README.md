@@ -1,9 +1,6 @@
 # HackerRank Solutions - Python 🐍
 
-Este directorio contiene soluciones a problemas relacionados con la **sintaxis de Python** y la sección de **Problem Solving** de [HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-python).
-
-- **Syntax**: Problemas básicos que cubren los fundamentos de Python, como estructuras de control, funciones, manejo de archivos, etc.
-- **Problem Solving**: Desafíos más complejos que requieren aplicar algoritmos y estructuras de datos para resolver problemas.
+Este directorio contiene soluciones a problemas relacionados con la sintaxis de Python en [HackerRank](https://www.hackerrank.com/domains/python). En esta sección, se abordan problemas básicos que cubren los fundamentos esenciales de Python, como estructuras de control, funciones, manejo de archivos, entre otros conceptos clave del lenguaje.
 
 ### Estructura
 
