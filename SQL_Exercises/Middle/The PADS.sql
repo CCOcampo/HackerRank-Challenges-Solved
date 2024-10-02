@@ -17,7 +17,7 @@ The OCCUPATIONS table is described as follows:
 | Column      |   Type      | 
 +-------------+------------+
 | NAME        | String      | 
-| OCCUPATION  | String|     |
+| OCCUPATION  | String      |
 +-------------+------------+
 */
 
