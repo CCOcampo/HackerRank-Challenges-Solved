@@ -1,8 +1,15 @@
+</a>
+<a href="https://www.hackerrank.com/profile/ccocampob" target="_blank">
+<img src="https://data-projects-cco.s3.amazonaws.com/Images_Project/Logos/HACK.png">
+</a>
+
 # HackerRank Solutions - Python & SQL
 
 ¡Bienvenidos a mi repositorio de soluciones de problemas en **HackerRank**! 🎉
 
 Este repositorio contiene soluciones a diversos desafíos de programación en las categorías de **Python** y **SQL** que se encuentran en la plataforma de [HackerRank](https://www.hackerrank.com/).
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/CCOcampo/HackerRank-Challenges-Solved)](https://github.com/CCOcampo/HackerRank-Challenges-Solved/commits/master) [![GitHub repo size](https://img.shields.io/github/repo-size/CCOcampo/HackerRank-Challenges-Solved)](https://github.com/CCOcampo/HackerRank-Challenges-Solved/archive/master.zip)
 
 ## 🚀 Estructura del repositorio
 
